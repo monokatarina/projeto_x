@@ -14,7 +14,11 @@ Projeto para detecção e rastreio de alvos com YOLO, com controle de movimento 
 
 - Python 3.10+
 - Dependências do arquivo `limpo.py`
-- Modelo treinado em `models/`
+- Modelos treinados em `models/`
+
+## Modelos
+
+Os arquivos de modelo presentes na pasta `models/` fazem parte do repositório e podem ser enviados junto com o projeto.
 
 ## Execução
 

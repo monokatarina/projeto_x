@@ -10,11 +10,6 @@ env/
 # IDE/editor
 .vscode/
 
-# Model artefacts
-models/*.pt
-models/*.onnx
-models/*.pth
-
 # OS
 .DS_Store
 Thumbs.db
